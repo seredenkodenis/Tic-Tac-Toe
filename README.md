@@ -7,9 +7,14 @@
  - The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
  - When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
  
-# Installation
-This game requires Java JDK 1.8!<br>
-Download ZIP and unzip it<br>
-Open a command prompt with this folder and use folowing commands<br>
-```
-cd .idea
+# How I can put X or O?
+We have a field of view:<br><br>
+| 1 | 2 | 3 |<br>
+| 4 | 5 | 6 |<br>
+| 7 | 8 | 9 |<br><br>
+So if you want to put the badge in any cell, just enter its number.<br>
+See that the cell should not be occupied!
+
+
+# Do you have any questions?
+If you have some questions, feel free to write me on e-mail: denis-seredenko@ukr.net
