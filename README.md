@@ -9,3 +9,7 @@
  
 # Installation
 This game requires Java JDK 1.8!<br>
+Download ZIP and unzip it<br>
+Open a command prompt with this folder and use folowing commands<br>
+```
+cd .idea
